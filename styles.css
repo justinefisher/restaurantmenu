@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px auto;
+	max-width: 600px;
+    color: #ff0000;
+    background-color: yellow;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .menu-item {
+    border: 1px solid #c00;
+    margin: 20px;
+    padding: 10px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .price {
+    font-weight: bold;
+    color: #c00;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
